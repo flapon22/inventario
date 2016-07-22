@@ -1,0 +1,81 @@
+K:\proyecto\tienda\tienda\bin\Debug\tienda.exe.config
+K:\proyecto\tienda\tienda\bin\Debug\tienda.exe
+K:\proyecto\tienda\tienda\bin\Debug\tienda.pdb
+K:\proyecto\tienda\tienda\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.frm_principal.resources
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.Properties.Resources.resources
+K:\proyecto\tienda\tienda\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\proyecto\tienda\tienda\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.exe
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.pdb
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.frm_cliente.resources
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.frm_producto.resources
+K:\proyecto\tienda\tienda\obj\x86\Debug\tienda.frm_vendedor.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.pdb
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_principal.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_cliente.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_producto.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_vendedor.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Properties.Resources.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe
+K:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.pdb
+J:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.pdb
+J:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe
+J:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.pdb
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Properties.Resources.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Form1.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.VENTA.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmproducto_pedido.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmventa.resources
+K:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmVenta_Pedido.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Form1.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_principal.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_cliente.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_producto.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frm_vendedor.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmproducto_pedido.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.maestro.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Properties.Resources.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmventa.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.frmVenta_Pedido.resources
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+I:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+I:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.pdb
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.FormPrincipal.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.listarpedido.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_cliente.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_producto.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_vendedor.resources
+J:\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frmventa_pedido.resources
+E:\teleton\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+E:\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+E:\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.pdb
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe.config
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.exe
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.pdb
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.exe
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\bin\Debug\tienda.pdb
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.csprojResolveAssemblyReference.cache
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.FormPrincipal.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.listarpedido.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_cliente.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_producto.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frm_vendedor.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.Properties.Resources.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tiendazapatos.frmventa_pedido.resources
+F:\resp docu c\respaldo memori\teleton\ProgramaProyectoJazcar\tienda\tienda\obj\x86\Debug\tienda.csproj.GenerateResource.Cache
